@@ -1,4 +1,4 @@
-#Basic PHP eCommerce Project
+##Basic PHP eCommerce Project
 
 ## Overview
 
